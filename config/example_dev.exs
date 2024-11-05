@@ -2,10 +2,10 @@ import Config
 
 # Configure your database
 config :demo, Demo.Repo,
-  username: "postgres",
-  password: "Paascode123!*",
+  username: "username",
+  password: "password",
   hostname: "localhost",
-  database: "demo_dev",
+  database: "database",
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
