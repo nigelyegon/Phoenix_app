@@ -22,3 +22,7 @@ defmodule DemoWeb.Gettext do
   """
   use Gettext, otp_app: :demo
 end
+
+# defmodule DemoWeb.Gettext do
+#   use Gettext.Backend, otp_app: :demo
+# end
