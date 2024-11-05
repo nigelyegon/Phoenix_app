@@ -1,4 +1,4 @@
-# Demo
+# Phoenix Elixir App
 
 To start your Phoenix server:
 
